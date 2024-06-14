@@ -19,7 +19,7 @@ This PHP script fetches an XML feed from a Substack publication URL, converts it
 ### Installation Steps
 
 1. **Clone the Repository:**
-git clone https://github.com/your/repository.git
+git clone https://github.com/stirtingale/XML-to-JSON-proxy.git
 cd repository
 
 2. **Install Dependencies:**
