@@ -1,4 +1,6 @@
 <?php
+// Allow access
+header("Access-Control-Allow-Origin: *");
 // Set the content type to application/json
 header('Content-Type: application/json');
 // Define the cache file and duration (6 hours in seconds)
